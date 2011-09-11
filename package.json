@@ -1,0 +1,14 @@
+{ "name": "obj-ops_tests"
+, "version": "0.0.0"
+, "description": "tests for obj-ops"
+, "homepage": "http://github.com/dominictarr/obj-ops_tests"
+, "repository": 
+  { "type": "git"
+  , "url": "https://github.com/dominictarr/obj-ops_tests.git" }
+, "dependencies": {
+    "d-utils": "~2.3"
+  , "it-is": "1"
+  , "synct": "1"
+  }
+, "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)"
+, "scripts": { "test": "synct" } }
